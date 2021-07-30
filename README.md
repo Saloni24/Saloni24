@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saloni24
 - 👀 I’m interested in Applications of Machine Learning
 - 🌱 I’m currently learning Predictive Modelling and NLP
-- 💞️ I’m looking to collaborate on use cases in ML
+- 💞️ I’m looking to collaborate on unique problem statements using ML
 - 📫 How to reach me sharma.saloni27@gmail.com
 
 <!---
